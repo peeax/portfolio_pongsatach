@@ -1,10 +1,3 @@
-/* ?This is where reusable styling of this template will be. 
-   !Will contain things like:
-   * Button styling
-   * Background color styling
-   * padding and margin
-*/
-
 .container {
   max-width: var(--width-medium);
   margin: 0 auto;
@@ -236,7 +229,7 @@ h2::selection {
 
 /* cer 12 */
 .card2:nth-child(12) {
-  background: url(../assets/certificate/12.png) center center/cover;
+  background: url(../assets/certificate/12.PNG) center center/cover;
 }
 
 /* Media Queries */
