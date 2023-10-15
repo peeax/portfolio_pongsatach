@@ -34,7 +34,7 @@ h2::selection {
 
 .btn-secondary {
   margin: 5px 0;
-  background-color: var(--bg-secondary);
+  background-color: var(--bg-secondary); 
   color: var(--bg-primary);
 }
 
@@ -167,7 +167,7 @@ h2::selection {
 }
 
 .card2 a:hover {
-  *color: var(--primary-color);
+  color: var(--primary-color);
 }
 
 .card2:hover {
@@ -227,6 +227,16 @@ h2::selection {
 /* cer 10 */
 .card2:nth-child(10) {
   background: url(../assets/certificate/10.png.png) center center/cover;
+}
+
+/* cer 11 */
+.card2:nth-child(11) {
+  background: url(../assets/certificate/11.png) center center/cover;
+}
+
+/* cer 12 */
+.card2:nth-child(12) {
+  background: url(../assets/certificate/12.png) center center/cover;
 }
 
 /* Media Queries */
