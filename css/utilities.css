@@ -194,42 +194,37 @@ h2::selection {
 
 /* cer 5 */
 .card2:nth-child(5) {
-  background: url(../assets/certificate/5.png.png) center center/cover;
+  background: url(../assets/certificate/6.png.png) center center/cover;
 }
 
 /* cer 6 */
 .card2:nth-child(6) {
-  background: url(../assets/certificate/6.png.png) center center/cover;
+  background: url(../assets/certificate/7.png.png) center center/cover;
 }
 
 /* cer 7 */
 .card2:nth-child(7) {
-  background: url(../assets/certificate/7.png.png) center center/cover;
+  background: url(../assets/certificate/8.png.png) center center/cover;
 }
 
 /* cer 8 */
 .card2:nth-child(8) {
-  background: url(../assets/certificate/8.png.png) center center/cover;
+  background: url(../assets/certificate/9.png.png) center center/cover;
 }
 
 /* cer 9 */
 .card2:nth-child(9) {
-  background: url(../assets/certificate/9.png.png) center center/cover;
+  background: url(../assets/certificate/10.png.png) center center/cover;
 }
 
 /* cer 10 */
 .card2:nth-child(10) {
-  background: url(../assets/certificate/10.png.png) center center/cover;
+  background: url(../assets/certificate/11.png) center center/cover;
 }
 
 /* cer 11 */
 .card2:nth-child(11) {
-  background: url(../assets/certificate/11.png) center center/cover;
-}
-
-/* cer 12 */
-.card2:nth-child(12) {
-  background: url(../assets/certificate/12.PNG) center center/cover;
+  background: url(../assets/certificate/12.png) center center/cover;
 }
 
 /* Media Queries */
